@@ -1,0 +1,3 @@
+bin/ruuvibeacon
+bin/ruuvibeacon.*
+bin/plugins/*
